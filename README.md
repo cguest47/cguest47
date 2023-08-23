@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cguest47
-- 👀 I’m interested in JS, Node.js, NOSQL, startups and AWS
-- 🌱 I’m currently learning how to connect my React App to AWS
-- 💞️ I’m looking to collaborate on AI FinTech projects
+- 👀 I work as a developer/consultant @ Esker SA
+- JS/TS are my native languages. Learning more about Python.
 - 📫 How to reach me colinguest@me.com
 
 <!---
